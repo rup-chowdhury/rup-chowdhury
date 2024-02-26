@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @rup-chowdhury
 - 👀 I’m interested in Programming and Photography
-- 🌱 I’m currently learning Python
+- 🌱 I’m currently learning App Development
 - 📫 Reach me: rupbd1@gmail.com
 
 <!---
