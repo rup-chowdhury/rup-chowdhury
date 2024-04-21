@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Rup Chowdhury</h1>
-<h3 align="center">A passionate frontend developer from BANGLADESH</h3>
+<h3 align="center">A passionate android developer from BANGLADESH</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rup-chowdhury&label=Profile%20views&color=0e75b6&style=flat" alt="rup-chowdhury" /> </p>
 
