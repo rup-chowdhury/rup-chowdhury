@@ -20,7 +20,7 @@
 
 <h3 align="left">Languages and Tools:</h3>
 
-[![My Skills](https://skillicons.dev/icons?i=androidstudio,flutter,dart,firebase,mysql,sqlite,java,py,anaconda,sklearn,tensorflow,arduino,c,cpp,html,css,wasm,ps,ai)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=androidstudio,flutter,dart,firebase,mysql,sqlite,java,py,anaconda,sklearn,tensorflow,arduino,c,cpp,html,css,ps,ai)](https://skillicons.dev)
 
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
