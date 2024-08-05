@@ -2,9 +2,7 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hello+There!+👋;+I'm+Rup+Chowdhury!;" />
 </h1>
 
-<h3 align="center">A passionate Flutter 
-    [![My Skills](https://skillicons.dev/icons?i=androidstudio)](https://skillicons.dev)
-    and Android App Developer from BANGLADESH</h3>
+<h3 align="center">A passionate Flutter and Android App Developer from BANGLADESH</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rup-chowdhury&label=Profile%20views&color=0e75b6&style=flat" alt="rup-chowdhury" /> </p>
 
