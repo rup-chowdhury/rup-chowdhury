@@ -6,8 +6,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rup-chowdhury" alt="rup-chowdhury" /></a> </p>
 
-- 🌱 I’m currently learning **Android Development**
-
 - 📫 How to reach me **rupbd1@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
